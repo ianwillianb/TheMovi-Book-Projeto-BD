@@ -1,0 +1,44 @@
+
+
+
+Trabalho banco de dados
+    Relacao entre usuarios
+            Adicionar amigos x
+                Cancelar pedido x
+                Recusar pedido x
+            Remover amigos x
+
+        Busca de usuarios
+            Mostrar amigos na busca de usuarios x
+            Status de amizade na pagina de busca x
+        Perfil dos usuarios
+            Mostrar amigos do dono do perfil x
+            Mostrar se ja eh ou nao amigo x
+            Mostrar filmes/pessoas que curtem
+
+        Bloquear usuarios (opcional)
+
+
+    Filmes
+        Busca de filmes
+            Busca de filmes e series
+                por nome x
+                por ano x
+                adicionar outros tipos de busca mais tarde talvez (opcional)
+            Pagina dos filmes/series
+                mostrar se curte
+                mostrar amigos que curtem
+                mostrar reviews/comentarios (opcional)
+
+    Pessoas (opcional)
+        Busca de pessoas x
+            Busca de atores/diretores/etc.
+                por filme
+            Pagina dos atores
+                mostrar se curte
+                mostrar amigos que curtem
+
+
+    (opcional) sistema de 'message board' nos comentarios em filmes
+
+    'Pessoas' se refere a atores, diretores, etc.
